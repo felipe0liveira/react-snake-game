@@ -15,3 +15,8 @@ _Made with ReactJS_
 2. Go to the folder `snake-game/`
 3. Run `npm install` to install all dependencies
 4. Run `npm start` to initialize the Game
+
+### How to play
+
+**On Web:** Use the arrow keys to move the Snake  
+**On Mobile:** Swipe into the game area to move the Snake  
