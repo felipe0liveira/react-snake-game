@@ -1,0 +1,11 @@
+.snake {
+  .dot {
+    transition: .25s;
+    position: absolute;
+    width: 2%;
+    height: 2%;
+    border: 1px solid #000;
+
+    z-index: 2;
+  }
+}
