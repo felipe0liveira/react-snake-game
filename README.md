@@ -9,6 +9,10 @@ _Made with ReactJS_
 2. Mobile Browser Support provided by HammerJS
 3. Food eat sound
 
+### Demo
+
+[![Snake Game Video](https://img.youtube.com/vi/aytRbK9QFCg/0.jpg)](https://www.youtube.com/watch?v=aytRbK9QFCg)
+
 ### Installation
 
 1. Clone the [repository](https://github.com/felipe0liveira/react-snake-game.git)
